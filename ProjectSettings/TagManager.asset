@@ -6,15 +6,17 @@ TagManager:
   tags:
   - Suelo
   - Nave
+  - Malo
+  - Bueno
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Suelo
   - Water
   - UI
-  - 
-  - 
+  - Buenos
+  - Malos
   - 
   - 
   - 
