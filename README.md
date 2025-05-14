@@ -36,7 +36,7 @@
 ---
 
 ## ⬇️ Cómo jugar
-1. **Descarga el juego** desde [itch.io](https://deleseee.itch.io/moonyn-adventure).
+1. **Juegalo en el navegador** desde [itch.io](https://deleseee.itch.io/moonyn-adventure).
 3. **Selecciona un mundo** desde el menú principal (los mundos se desbloquean al completar niveles anteriores).
 
 ---
